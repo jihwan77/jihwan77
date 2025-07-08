@@ -7,11 +7,12 @@
 
 ## 🌟 About Me
 
-🎯 나에 대한 소개
+🚀 Cloud Engineering in progress! I'm on a journey to master Kubernetes, Docker, and cloud platforms.
 
-🛡️ 나에 대한 소개2
+⚙️ I enjoy exploring how infrastructure as code and automation can transform software delivery.
 
-🌍 나에 대한 소개3
+💬 Open to connections, knowledge sharing, and collaboration on exciting projects!
+
 
 <br></br>
 ## ⚙️ Tech Stack
