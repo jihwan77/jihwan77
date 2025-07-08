@@ -38,7 +38,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="" />
       </a>
       <br>vmware
     </td>
