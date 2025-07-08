@@ -32,7 +32,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="JAVA" />
       </a>
       <br>JAVA
     </td>
@@ -40,19 +40,19 @@
       <a href="#macropower-tech">
         <img src="" width="48" height="48" alt="" />
       </a>
-      <br>Python
+      <br>vmware
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="" width="48" height="48" alt="" />
       </a>
-      <br>
+      <br>ubuntu
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="" width="48" height="48" alt="" />
       </a>
-      <br>
+      <br>mysql
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -70,7 +70,7 @@
       <a href="#macropower-tech">
         <img src="" width="48" height="48" alt="" />
       </a>
-      <br>
+      <br>prometheus
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
