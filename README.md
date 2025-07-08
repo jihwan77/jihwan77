@@ -13,7 +13,7 @@
 
 🌍 나에 대한 소개3
 
-
+<br></br>
 ## ⚙️ Tech Stack
 
 <!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2> -->
@@ -174,7 +174,7 @@
 
 
 
-      
+<br></br>     
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical" />
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" /> -->
@@ -185,10 +185,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical) -->
 
-## 🏆 Algorithm Ranking
-
+## 🏆 Used Language
+<br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" />
 <!-- [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/lch010201) -->
-알고리즘 관련 랭크 
+
 ---
 
 
