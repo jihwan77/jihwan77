@@ -14,7 +14,6 @@
 💬 Open to connections, knowledge sharing, and collaboration on exciting projects!
 
 
-<br></br>
 ## ⚙️ Tech Stack
 
 <!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2> -->
@@ -171,11 +170,7 @@
 ---
 
 
-
-
-
-
-<br></br>     
+     
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical" />
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" /> -->
