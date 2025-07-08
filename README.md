@@ -1,16 +1,9 @@
 <p align="center">
 
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=9F79EE&center=true&vCenter=true&width=550&lines=Hi!+I'm+ChaeHyun+Ryu+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer;Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F+;Let's+build+great+things+together!+%E2%9C%A8" alt="Typing SVG" /> -->
-  이름 출력
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Jihwan+Hwang!)](https://git.io/typing-svg)
 </p>
 
----
 
-<p align="center">
-
-</p>
-
----
 
 ## 🌟 About Me
 
@@ -20,39 +13,37 @@
 
 🌍 나에 대한 소개3
 
----
 
 ## ⚙️ Tech Stack
 
 <!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2> -->
 
-> 내가 좋아하는 언어, 툴
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="JAVA" />
+        <img src="" width="48" height="48" alt="JAVA" />
       </a>
       <br>JAVA
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="SpringBoot" />
       </a>
-      <br>vmware
+      <br>SpringBoot
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/jenkins/D24939" width="48" height="48" alt="Jenkins" />
       </a>
-      <br>ubuntu
+      <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48" alt="Kafka" />
       </a>
-      <br>mysql
+      <br>kafka
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -62,15 +53,15 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>prometheus
+      <br>Prometheus
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -177,12 +168,30 @@
 </table> -->
 
 ---
+<br></br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical) -->
 
 ## 🏆 Algorithm Ranking
 
 <!-- [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/lch010201) -->
 알고리즘 관련 랭크 
 ---
+
+
+
 
 <p align="center">
   🌱 Always open to collaboration and learning.<br/>
