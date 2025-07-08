@@ -186,7 +186,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical) -->
 
-## 🏆 Used Language
+<!--## 🏆 Used Language
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" />
 <!-- [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/lch010201) -->
