@@ -170,6 +170,19 @@
 ---
 
 
+### 💻 Projects
+
+| No | 분류 | 주요 내용 | 링크 |
+|---|---|---|---|
+| 1 | **인프라 파이프라인 구축**  | MQTT 데이터 처리를 위한 파이프 라인 및 모니터링 구축 | [🔗](https://github.com/jihwan77/school_project) |
+| 2 | **데이터 분석**  | ELK Stack 기반 카드 소비 분석 프로젝트 | [🔗](https://github.com/jihwan77/woori-data-analyze) |
+| 3 | **데이터 분석** | 대용량 데이터를 활용한 RDBMS 파티셔닝 프로젝트 | [🔗](https://github.com/jihwan77/TrendPhishing) |
+| 4 | **성능 조회**  | Redis 캐시 기반 데이터 조회 속도 분석 | [🔗](https://github.com/jihwan77/technology-seminar) |
+| 5 | **인프라 자동화** | crontab과 shell script를 이용한 DB 백업 자동화 | [🔗](https://github.com/jihwan77/db_backup_automation_guide) |
+
+
+---
+
      
 <div>
       <img src="https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical" />
