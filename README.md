@@ -23,15 +23,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="JAVA" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>JAVA
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" height="48" alt="SpringBoot" />
+        <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="vSphere" />
       </a>
-      <br>SpringBoot
+      <br>vSphere
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -41,9 +41,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="48" height="48" alt="Kafka" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br>kafka
+      <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -174,11 +174,12 @@
 
 | No | 분류 | 주요 내용 | 링크 |
 |---|---|---|---|
-| 1 | **인프라 파이프라인 구축**  | MQTT 데이터 처리를 위한 파이프 라인 및 모니터링 구축 | [🔗](https://github.com/jihwan77/school_project) |
-| 2 | **데이터 분석**  | ELK Stack 기반 카드 소비 분석 프로젝트 | [🔗](https://github.com/jihwan77/woori-data-analyze) |
+| 1 | **종합 프로젝트**  | 하이브리드 클라우드 기반 취약점 실습 보안 플랫폼 | [🔗](https://github.com/fisagmg) |
+| 2 | **인프라 설계**  | 서버 자원 할당 프로젝트 | [🔗](https://github.com/jihwan77/Multi-Tenant-Service-Isolation-Architecture-on-Limited-On-Prem-Infrastructure) |
 | 3 | **데이터 분석** | 대용량 데이터를 활용한 RDBMS 파티셔닝 프로젝트 | [🔗](https://github.com/jihwan77/TrendPhishing) |
 | 4 | **성능 조회**  | Redis 캐시 기반 데이터 조회 속도 분석 | [🔗](https://github.com/jihwan77/technology-seminar) |
 | 5 | **인프라 자동화** | crontab과 shell script를 이용한 DB 백업 자동화 | [🔗](https://github.com/jihwan77/db_backup_automation_guide) |
+| 6 | **인프라 자동화** | ansible을 이용한 linux 초기 세팅 자동화 | [🔗](https://github.com/jihwan77/Ansible-Linux-Automation) |
 
 
 ---
