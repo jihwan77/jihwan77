@@ -184,26 +184,13 @@
 
 ---
 
-     
-<div>
-      <img src="https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical" />
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" /> -->
-</div>
+## 📌 Notion
 
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihwan77&show_icons=true&theme=radical) -->
-
-<!--## 🏆 Used Language
-<br></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihwan77&layout=compact" />
-<!-- [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lch010201)](https://solved.ac/lch010201) -->
+ 문서 | 설명 |
+|---|---|
+|  [Infra Portfolio](https://jihwan77-infra.notion.site/Infra-2c565bdd009e80bf9328d2491a09690d) | vSphere, pfsense등 인프라 학습, 구축 개인 프로젝트 |
 
 ---
-
-
-
 
 <p align="center">
   🌱 Always open to collaboration and learning.<br/>
