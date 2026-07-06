@@ -181,6 +181,8 @@
 | 5 | **데이터 분석** | 대용량 데이터를 활용한 RDBMS 파티셔닝 프로젝트 | [🔗](https://github.com/jihwan77/TrendPhishing) |
 | 6 | **성능 조회**  | Redis 캐시 기반 데이터 조회 속도 분석 | [🔗](https://github.com/jihwan77/technology-seminar) |
 | 7 | **인프라 구축** | kubernetes를 이용한 MQTT 파이프라인 구축 | [🔗](https://github.com/jihwan77/school_project) |
+| 8 | **보안 취약점** | Linux Copy-Fail (CVE-2026-31431) 취약점 분석 및 대응 | [🔗](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-) |
+
 
 
 ---
