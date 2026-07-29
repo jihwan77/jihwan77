@@ -176,7 +176,7 @@
 |---|---|---|---|
 | 1 | **종합 프로젝트**  | 하이브리드 클라우드 기반 취약점 실습 보안 플랫폼 | [🔗](https://github.com/fisagmg) |
 | 2 | **인프라 설계**  | 서버 자원 할당 프로젝트 | [🔗](https://github.com/jihwan77/Multi-Tenant-Service-Isolation-Architecture-on-Limited-On-Prem-Infrastructure) |
-| 3 | **인프라 자동화** | ansible을 이용한 linux, kubernetes 초기 세팅 자동화 | [🔗](https://github.com/jihwan77/Ansible-Linux-Automation) |
+| 3 | **인프라 자동화** | vSphere 기반 ansible을 이용한 linux, kubernetes 초기 세팅 자동화 | [🔗](https://github.com/jihwan77/vSphere-Infrastructure-Automation) |
 | 4 | **보안 취약점** | Linux Copy-Fail (CVE-2026-31431) 취약점 분석 및 대응 | [🔗](https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-) |
 
 
