@@ -187,7 +187,7 @@
 
  문서 | 설명 |
 |---|---|
-|  [Infra Portfolio](https://jihwan77-infra.notion.site/Infra-2c565bdd009e80bf9328d2491a09690d) | vSphere, pfsense등 인프라 학습, 구축 개인 프로젝트 |
+|  [Infra Portfolio](https://jihwan77-infra.notion.site/Infra-2c565bdd009e80bf9328d2491a09690d) | vSphere, pfsense(Network), trueNAS(Storage)등 인프라 전반 학습, 구축 개인 프로젝트 |
 
 ---
 
